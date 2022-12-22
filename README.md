@@ -7,5 +7,5 @@ Project launch
 5) Populate database data running php artisan db:seed
 6) Run npm install
 7) Run php artisan server
-8) 
+
 Work task: Create a new page link, which displays the table with paginated Customers data using vue and ajax requests.
