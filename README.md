@@ -1,11 +1,11 @@
-Projekta uzsākšana
-1) Uzstādīt aplikāciju 
-2) Izveidot .env failu un norādīt datubāzes pieslēguma informāciju
-2) Palais composer install 
-3) Palaist datubāzes migrāciju php artisan migrate
-4) palaist datubāzes datu aizpildīšanu php artisan db:seed
-5) Palaist npm install
-6) Palaist php artisan serve
+Project launch
 
-Darba uzdevums:
-Izveidot jaunu lapas linku, kurā attēlot tabulu ar Customers datiem sadalītu pa lapām izmantojot vue un ajax pieprasījumus.
+1) Install the application
+2) Create an .env file and specify database connection information
+3) Run composer install
+4) Run database migration php artisan migrate
+5) Populate database data running php artisan db:seed
+6) Run npm install
+7) Run php artisan server
+8) 
+Work task: Create a new page link, which displays the table with paginated Customers data using vue and ajax requests.
